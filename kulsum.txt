@@ -1,7 +1,11 @@
 
+<<<<<<< HEAD
 hi this is kulsum
 hi this is roshal
 =======
 hi this is Kulsum
 kulsum
+
+=======
+KULSUM
 
